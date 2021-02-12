@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @QazCetelic
 - 👀 I’m interested in Kotlin
 - 🌱 I’m currently learning how to use Gradle
-- 💞️ I’m looking to collaborate on my projects or other projects that are aim to solve the same things
-- 📫 How to reach me qaz.cetelic@protonmail.com
+- 📫 You can reach me at qaz.cetelic@protonmail.com
