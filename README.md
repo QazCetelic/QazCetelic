@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @QazCetelic
-- 👀 I’m interested in Kotlin Multiplatform and transpiling in general
-- 🌱 I’m currently learning how to use SQL, Nim and Rust
-- 📫 You can reach me at qaz.cetelic@protonmail.com
+![Qaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QazCetelic&hide=stars&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QazCetelic&layout=compact&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
