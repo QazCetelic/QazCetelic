@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QazCetelic&langs_count=100&exclude_repo=GameCubeSite&layout=compact)
 
-![relevant](https://imgs.xkcd.com/comics/infrastructures.png)
+![relevant](https://imgs.xkcd.com/comics/standards_2x.png)
