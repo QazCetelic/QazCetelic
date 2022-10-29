@@ -1,4 +1,4 @@
-![Qaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QazCetelic&hide=stars&count_private=true)
+![Qaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QazCetelic&count_private=true)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white),
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat-square&logo=kubuntu&logoColor=white),
