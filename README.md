@@ -6,5 +6,3 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QazCetelic&langs_count=100&exclude_repo=GameCubeSite&layout=compact)
-
-![relevant](https://imgs.xkcd.com/comics/standards_2x.png)
