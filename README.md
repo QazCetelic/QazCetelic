@@ -1,5 +1,3 @@
-![Qaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QazCetelic&count_private=true&show_icons=true&hide_rank=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QazCetelic&langs_count=100&layout=compact)
  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) →
